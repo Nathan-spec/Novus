@@ -6,11 +6,14 @@
         <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/drawable/ic_baseline_assignment_ind_24.xml" value="0.1615" />
         <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1615" />
         <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1615" />
+        <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1595" />
         <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_home.xml" value="0.22" />
         <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_login.xml" value="0.13496376811594202" />
-        <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_profile.xml" value="0.13496376811594202" />
-        <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_settings.xml" value="0.13496376811594202" />
+        <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_profile.xml" value="0.22" />
+        <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_search.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_search2.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/layout/fragment_settings.xml" value="0.264" />
         <entry key="..\:/Users/natek/Downloads/Novus/app/src/main/res/menu/menu_navigation.xml" value="0.17282051282051283" />
       </map>
     </option>

@@ -5,19 +5,31 @@
     android:id="@+id/navigation_graph"
     app:startDestination="@id/homeFragment">
 
+<!-- Home Fragment  -->
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.example.novus.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
+
+<!-- Profile Fragment -->
     <fragment
         android:id="@+id/profileFragment"
         android:name="com.example.novus.ProfileFragment"
         android:label="fragment_profile"
         tools:layout="@layout/fragment_profile" />
+
+<!-- Settings Fragment -->
     <fragment
         android:id="@+id/settingsFragment"
         android:name="com.example.novus.SettingsFragment"
         android:label="fragment_settings"
         tools:layout="@layout/fragment_settings" />
+
+<!-- Search Fragment -->
+    <fragment
+        android:id="@+id/searchFragment2"
+        android:name="com.example.novus.SearchFragment"
+        android:label="fragment_search2"
+        tools:layout="@layout/fragment_search2" />
 </navigation>

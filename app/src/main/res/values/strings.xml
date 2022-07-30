@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">Novus</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_data">Test Data 1. </string>
+    <string name="test_data_2">Test Data 2. </string>
+    <string name="test_data_3">Test Data 3. </string>
+    <string name="test_data_4">Test Data 4. </string>
+    <string name="test_data_5">Test Data 5. </string>
 </resources>
